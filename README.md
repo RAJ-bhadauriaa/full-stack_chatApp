@@ -1,3 +1,7 @@
+🔗 Author-
+Raj Bhadauria:
+Cloud & DevOps Enthusiast
+
 # 📦 Full-Stack Chat App – Kubernetes Deployment
 
 This project is a **full-stack real-time chat application** deployed on **Kubernetes** using `kind` on an **Azure Linux VM**.  
@@ -55,3 +59,4 @@ The original project without Kubernetes manifests is preserved in ORIGINAL-READM
    🔗 Author-
 Raj Bhadauria:
 Cloud & DevOps Enthusiast
+
