@@ -1,6 +1,6 @@
-🔗 Author-
-Raj Bhadauria:
-Cloud & DevOps Enthusiast
+**Built by:** Raj Bhadauria  
+**LinkedIn:** [linkedin.com/in/raj-bhadauria-58924219b](https://www.linkedin.com/in/raj-bhadauria-58924219b/)
+
 
 # 📦 Full-Stack Chat App – Kubernetes Deployment
 
@@ -59,4 +59,5 @@ The original project without Kubernetes manifests is preserved in ORIGINAL-READM
    🔗 Author-
 Raj Bhadauria:
 Cloud & DevOps Enthusiast
+
 
